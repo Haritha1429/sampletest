@@ -1,0 +1,1644 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: "#content"
+- banner "Site":
+  - complementary:
+    - insertion
+  - paragraph:
+    - link "CosmoCode (Formerly TeachMeSelenium)":
+      - /url: https://cosmocode.io/
+  - paragraph: DevOps tutorials | Test Automation tutorials
+- navigation "Primary":
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://cosmocode.io
+    - listitem:
+      - link "Selenium Tutorials ":
+        - /url: https://cosmocode.io/category/selenium/
+    - listitem:
+      - link "JavaScript Tutorials ":
+        - /url: https://cosmocode.io/category/javascript/
+    - listitem:
+      - link "More ":
+        - /url: https://cosmocode.io
+    - listitem:
+      - link "About Us":
+        - /url: https://cosmocode.io/about-us/
+- heading "Automation Practice | WebTable" [level=1]
+- main:
+  - article:
+    - heading "List of Countries, Capitals, Currencies and Languages" [level=2]
+    - paragraph
+    - table:
+      - rowgroup:
+        - row "Visited Country Capital(s) Currency Primary Language(s)":
+          - cell "Visited":
+            - heading "Visited" [level=3]:
+              - strong: Visited
+          - cell "Country":
+            - heading "Country" [level=3]:
+              - strong: Country
+          - cell "Capital(s)":
+            - heading "Capital(s)" [level=3]:
+              - strong: Capital(s)
+          - cell "Currency":
+            - heading "Currency" [level=3]:
+              - strong: Currency
+          - cell "Primary Language(s)":
+            - heading "Primary Language(s)" [level=3]:
+              - strong: Primary Language(s)
+        - row "Afghanistan Kabul Afghani Dari Persian; Pashto":
+          - cell:
+            - checkbox
+          - cell "Afghanistan":
+            - strong: Afghanistan
+          - cell "Kabul"
+          - cell "Afghani"
+          - cell "Dari Persian; Pashto"
+        - row "Albania Tirane Lek Albanian":
+          - cell:
+            - checkbox
+          - cell "Albania":
+            - strong: Albania
+          - cell "Tirane"
+          - cell "Lek"
+          - cell "Albanian"
+        - row "Algeria Algiers Algerian Dinar Arabic; Tamazight; French":
+          - cell:
+            - checkbox
+          - cell "Algeria":
+            - strong: Algeria
+          - cell "Algiers"
+          - cell "Algerian Dinar"
+          - cell "Arabic; Tamazight; French"
+        - row "Andorra Andorra la Vella Euro Catalan":
+          - cell:
+            - checkbox
+          - cell "Andorra":
+            - strong: Andorra
+          - cell "Andorra la Vella"
+          - cell "Euro"
+          - cell "Catalan"
+        - row "Angola Luanda Kwanza Portuguese":
+          - cell:
+            - checkbox
+          - cell "Angola":
+            - strong: Angola
+          - cell "Luanda"
+          - cell "Kwanza"
+          - cell "Portuguese"
+        - row "Antigua & Barbuda Saint John’s East Caribbean Dollar English":
+          - cell:
+            - checkbox
+          - cell "Antigua & Barbuda":
+            - strong: Antigua & Barbuda
+          - cell "Saint John’s"
+          - cell "East Caribbean Dollar"
+          - cell "English"
+        - row "Argentina Buenos Aires Argentine Peso Spanish":
+          - cell:
+            - checkbox
+          - cell "Argentina":
+            - strong: Argentina
+          - cell "Buenos Aires"
+          - cell "Argentine Peso"
+          - cell "Spanish"
+        - row "Armenia Yerevan Dram Armenian":
+          - cell:
+            - checkbox
+          - cell "Armenia":
+            - strong: Armenia
+          - cell "Yerevan"
+          - cell "Dram"
+          - cell "Armenian"
+        - row "Australia Canberra Australian Dollar English":
+          - cell:
+            - checkbox
+          - cell "Australia":
+            - strong: Australia
+          - cell "Canberra"
+          - cell "Australian Dollar"
+          - cell "English"
+        - row "Austria Vienna Euro German":
+          - cell:
+            - checkbox
+          - cell "Austria":
+            - strong: Austria
+          - cell "Vienna"
+          - cell "Euro"
+          - cell "German"
+        - row "Azerbaijan Baku Manat Azerbaijani":
+          - cell:
+            - checkbox
+          - cell "Azerbaijan":
+            - strong: Azerbaijan
+          - cell "Baku"
+          - cell "Manat"
+          - cell "Azerbaijani"
+        - row "The Bahamas Nassau Bahamian Dollar English":
+          - cell:
+            - checkbox
+          - cell "The Bahamas":
+            - strong: The Bahamas
+          - cell "Nassau"
+          - cell "Bahamian Dollar"
+          - cell "English"
+        - row "Bahrain Manama Bahraini Dinar Arabic":
+          - cell:
+            - checkbox
+          - cell "Bahrain":
+            - strong: Bahrain
+          - cell "Manama"
+          - cell "Bahraini Dinar"
+          - cell "Arabic"
+        - row "Bangladesh Dhaka Taka Bangla":
+          - cell:
+            - checkbox
+          - cell "Bangladesh":
+            - strong: Bangladesh
+          - cell "Dhaka"
+          - cell "Taka"
+          - cell "Bangla"
+        - row "Barbados Bridgetown Barbadian Dollar English":
+          - cell:
+            - checkbox
+          - cell "Barbados":
+            - strong: Barbados
+          - cell "Bridgetown"
+          - cell "Barbadian Dollar"
+          - cell "English"
+        - row "Belarus Minsk Belarusian Ruble Belarusian; Russian":
+          - cell:
+            - checkbox
+          - cell "Belarus":
+            - strong: Belarus
+          - cell "Minsk"
+          - cell "Belarusian Ruble"
+          - cell "Belarusian; Russian"
+        - row "Belgium Brussels Euro Dutch; French; German":
+          - cell:
+            - checkbox
+          - cell "Belgium":
+            - strong: Belgium
+          - cell "Brussels"
+          - cell "Euro"
+          - cell "Dutch; French; German"
+        - row "Belize Belmopan Belize Dollar English":
+          - cell:
+            - checkbox
+          - cell "Belize":
+            - strong: Belize
+          - cell "Belmopan"
+          - cell "Belize Dollar"
+          - cell "English"
+        - row "Benin Porto-Novo West African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Benin":
+            - strong: Benin
+          - cell "Porto-Novo"
+          - cell "West African CFA Franc"
+          - cell "French"
+        - row "Bhutan Thimphu Ngultrum Dzongkha":
+          - cell:
+            - checkbox
+          - cell "Bhutan":
+            - strong: Bhutan
+          - cell "Thimphu"
+          - cell "Ngultrum"
+          - cell "Dzongkha"
+        - row "Bolivia La Paz; Sucre Boliviano Spanish; Quechua; Aymara":
+          - cell:
+            - checkbox
+          - cell "Bolivia":
+            - strong: Bolivia
+          - cell "La Paz; Sucre"
+          - cell "Boliviano"
+          - cell "Spanish; Quechua; Aymara"
+        - row "Bosnia and Herzegovina Sarajevo Convertible Mark Bosnian; Croatian; Serbian":
+          - cell:
+            - checkbox
+          - cell "Bosnia and Herzegovina":
+            - strong: Bosnia and Herzegovina
+          - cell "Sarajevo"
+          - cell "Convertible Mark"
+          - cell "Bosnian; Croatian; Serbian"
+        - row "Botswana Gaborone Pula English; Tswana":
+          - cell:
+            - checkbox
+          - cell "Botswana":
+            - strong: Botswana
+          - cell "Gaborone"
+          - cell "Pula"
+          - cell "English; Tswana"
+        - row "Brazil Brasilia Real Portuguese":
+          - cell:
+            - checkbox
+          - cell "Brazil":
+            - strong: Brazil
+          - cell "Brasilia"
+          - cell "Real"
+          - cell "Portuguese"
+        - row "Brunei Bandar Seri Begawan Brunei Dollar Malay":
+          - cell:
+            - checkbox
+          - cell "Brunei":
+            - strong: Brunei
+          - cell "Bandar Seri Begawan"
+          - cell "Brunei Dollar"
+          - cell "Malay"
+        - row "Bulgaria Sofia Lev Bulgarian":
+          - cell:
+            - checkbox
+          - cell "Bulgaria":
+            - strong: Bulgaria
+          - cell "Sofia"
+          - cell "Lev"
+          - cell "Bulgarian"
+        - row "Burkina Faso Ouagadougou West African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Burkina Faso":
+            - strong: Burkina Faso
+          - cell "Ouagadougou"
+          - cell "West African CFA Franc"
+          - cell "French"
+        - row "Burundi Bujumbura Burundi Franc Kirundi; French":
+          - cell:
+            - checkbox
+          - cell "Burundi":
+            - strong: Burundi
+          - cell "Bujumbura"
+          - cell "Burundi Franc"
+          - cell "Kirundi; French"
+        - row "Cambodia Phnom Penh Riel Khmer":
+          - cell:
+            - checkbox
+          - cell "Cambodia":
+            - strong: Cambodia
+          - cell "Phnom Penh"
+          - cell "Riel"
+          - cell "Khmer"
+        - row "Cameroon Yaounde Central African CFA Franc French; English":
+          - cell:
+            - checkbox
+          - cell "Cameroon":
+            - strong: Cameroon
+          - cell "Yaounde"
+          - cell "Central African CFA Franc"
+          - cell "French; English"
+        - row "Canada Ottawa Canadian Dollar English; French":
+          - cell:
+            - checkbox
+          - cell "Canada":
+            - strong: Canada
+          - cell "Ottawa"
+          - cell "Canadian Dollar"
+          - cell "English; French"
+        - row "Cape Verde Praia Cape Verdean Escudo Portuguese":
+          - cell:
+            - checkbox
+          - cell "Cape Verde":
+            - strong: Cape Verde
+          - cell "Praia"
+          - cell "Cape Verdean Escudo"
+          - cell "Portuguese"
+        - row "Central African Republic Bangui Central African CFA Franc Sango; French":
+          - cell:
+            - checkbox
+          - cell "Central African Republic":
+            - strong: Central African Republic
+          - cell "Bangui"
+          - cell "Central African CFA Franc"
+          - cell "Sango; French"
+        - row "Chad N’Djamena Central African CFA Franc French; Arabic":
+          - cell:
+            - checkbox
+          - cell "Chad":
+            - strong: Chad
+          - cell "N’Djamena"
+          - cell "Central African CFA Franc"
+          - cell "French; Arabic"
+        - row "Chile Santiago Chilean Peso Spanish":
+          - cell:
+            - checkbox
+          - cell "Chile":
+            - strong: Chile
+          - cell "Santiago"
+          - cell "Chilean Peso"
+          - cell "Spanish"
+        - row "China Beijing Chinese Yuan Mandarin":
+          - cell:
+            - checkbox
+          - cell "China":
+            - strong: China
+          - cell "Beijing"
+          - cell "Chinese Yuan"
+          - cell "Mandarin"
+        - row "Colombia Bogota Colombian Peso Spanish":
+          - cell:
+            - checkbox
+          - cell "Colombia":
+            - strong: Colombia
+          - cell "Bogota"
+          - cell "Colombian Peso"
+          - cell "Spanish"
+        - row "Comoros Moron Comorian Franc Comorian; Arabic; French":
+          - cell:
+            - checkbox
+          - cell "Comoros":
+            - strong: Comoros
+          - cell "Moron"
+          - cell "Comorian Franc"
+          - cell "Comorian; Arabic; French"
+        - row "Democratic Republic Of the Congo Kinshasa Congolese Franc French":
+          - cell:
+            - checkbox
+          - cell "Democratic Republic Of the Congo":
+            - strong: Democratic Republic Of the Congo
+          - cell "Kinshasa"
+          - cell "Congolese Franc"
+          - cell "French"
+        - row "Republic of the Congo Brazzaville Central African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Republic of the Congo":
+            - strong: Republic of the Congo
+          - cell "Brazzaville"
+          - cell "Central African CFA Franc"
+          - cell "French"
+        - row "Costa Rica San Jose Colon Spanish":
+          - cell:
+            - checkbox
+          - cell "Costa Rica":
+            - strong: Costa Rica
+          - cell "San Jose"
+          - cell "Colon"
+          - cell "Spanish"
+        - row "Cote d’Ivoire (Ivory Coast) Yamoussoukro; Abidjan West African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Cote d’Ivoire (Ivory Coast)":
+            - strong: Cote d’Ivoire (Ivory Coast)
+          - cell "Yamoussoukro; Abidjan"
+          - cell "West African CFA Franc"
+          - cell "French"
+        - row "Croatia Zagreb Croatian Kuna":
+          - cell:
+            - checkbox
+          - cell "Croatia":
+            - strong: Croatia
+          - cell "Zagreb"
+          - cell "Croatian"
+          - cell "Kuna"
+        - row "Cuba Havana Cuban Peso Spanish":
+          - cell:
+            - checkbox
+          - cell "Cuba":
+            - strong: Cuba
+          - cell "Havana"
+          - cell "Cuban Peso"
+          - cell "Spanish"
+        - row "Cyprus Nicosia Euro Greek; Turkish":
+          - cell:
+            - checkbox
+          - cell "Cyprus":
+            - strong: Cyprus
+          - cell "Nicosia"
+          - cell "Euro"
+          - cell "Greek; Turkish"
+        - row "Czechia Prague Czech Koruna Czech; Slovak":
+          - cell:
+            - checkbox
+          - cell "Czechia":
+            - strong: Czechia
+          - cell "Prague"
+          - cell "Czech Koruna"
+          - cell "Czech; Slovak"
+        - row "Denmark Copenhagen Danish Krone Danish":
+          - cell:
+            - checkbox
+          - cell "Denmark":
+            - strong: Denmark
+          - cell "Copenhagen"
+          - cell "Danish Krone"
+          - cell "Danish"
+        - row "Djibouti Djibouti Djiboutian Franc Arabic; French":
+          - cell:
+            - checkbox
+          - cell "Djibouti":
+            - strong: Djibouti
+          - cell "Djibouti"
+          - cell "Djiboutian Franc"
+          - cell "Arabic; French"
+        - row "Dominica Rosesau East Caribbean Dollar English; French; Antillean Creole":
+          - cell:
+            - checkbox
+          - cell "Dominica":
+            - strong: Dominica
+          - cell "Rosesau"
+          - cell "East Caribbean Dollar"
+          - cell "English; French; Antillean Creole"
+        - row "Dominican Republic Santo Domingo Dominican Peso Spanish":
+          - cell:
+            - checkbox
+          - cell "Dominican Republic":
+            - strong: Dominican Republic
+          - cell "Santo Domingo"
+          - cell "Dominican Peso"
+          - cell "Spanish"
+        - row "East Timor (Timor-Leste) Dilli United States Dollar Tetum; Portuguese; Iindonesian":
+          - cell:
+            - checkbox
+          - cell "East Timor (Timor-Leste)":
+            - strong: East Timor (Timor-Leste)
+          - cell "Dilli"
+          - cell "United States Dollar"
+          - cell "Tetum; Portuguese; Iindonesian"
+        - row "Ecuador Quito United States Dollar Spanish":
+          - cell:
+            - checkbox
+          - cell "Ecuador":
+            - strong: Ecuador
+          - cell "Quito"
+          - cell "United States Dollar"
+          - cell "Spanish"
+        - row "Egypt Cairo Egyptian Pound Arabic":
+          - cell:
+            - checkbox
+          - cell "Egypt":
+            - strong: Egypt
+          - cell "Cairo"
+          - cell "Egyptian Pound"
+          - cell "Arabic"
+        - row "El Salvador San Salvador United States Dollar Spanish":
+          - cell:
+            - checkbox
+          - cell "El Salvador":
+            - strong: El Salvador
+          - cell "San Salvador"
+          - cell "United States Dollar"
+          - cell "Spanish"
+        - row "Equitorial Guinea Malabo Central African CFA Franc Spanish; French; Portuguese":
+          - cell:
+            - checkbox
+          - cell "Equitorial Guinea":
+            - strong: Equitorial Guinea
+          - cell "Malabo"
+          - cell "Central African CFA Franc"
+          - cell "Spanish; French; Portuguese"
+        - row "Eritrea Asmara Nakfa Arabic; Tigrinya; English":
+          - cell:
+            - checkbox
+          - cell "Eritrea":
+            - strong: Eritrea
+          - cell "Asmara"
+          - cell "Nakfa"
+          - cell "Arabic; Tigrinya; English"
+        - row "Estonia Tallinn Estonian Kroon; Euro Estonian":
+          - cell:
+            - checkbox
+          - cell "Estonia":
+            - strong: Estonia
+          - cell "Tallinn"
+          - cell "Estonian Kroon; Euro"
+          - cell "Estonian"
+        - row "Ethiopia Addis Ababa Birr Amharic":
+          - cell:
+            - checkbox
+          - cell "Ethiopia":
+            - strong: Ethiopia
+          - cell "Addis Ababa"
+          - cell "Birr"
+          - cell "Amharic"
+        - row "Fiji Suva Fijian Dollar English; Bau Fijian; Hindi":
+          - cell:
+            - checkbox
+          - cell "Fiji":
+            - strong: Fiji
+          - cell "Suva"
+          - cell "Fijian Dollar"
+          - cell "English; Bau Fijian; Hindi"
+        - row "Finland Helsinki Euro Finnish; Swedish":
+          - cell:
+            - checkbox
+          - cell "Finland":
+            - strong: Finland
+          - cell "Helsinki"
+          - cell "Euro"
+          - cell "Finnish; Swedish"
+        - row "France Paris Euro; CFP Franc French":
+          - cell:
+            - checkbox
+          - cell "France":
+            - strong: France
+          - cell "Paris"
+          - cell "Euro; CFP Franc"
+          - cell "French"
+        - row "Gabon Libreville Central African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Gabon":
+            - strong: Gabon
+          - cell "Libreville"
+          - cell "Central African CFA Franc"
+          - cell "French"
+        - row "The Gambia Banjul Dalasi English":
+          - cell:
+            - checkbox
+          - cell "The Gambia":
+            - strong: The Gambia
+          - cell "Banjul"
+          - cell "Dalasi"
+          - cell "English"
+        - row "Georgia Tbilisi Lari Georgian":
+          - cell:
+            - checkbox
+          - cell "Georgia":
+            - strong: Georgia
+          - cell "Tbilisi"
+          - cell "Lari"
+          - cell "Georgian"
+        - row "Germany Berlin Euro German":
+          - cell:
+            - checkbox
+          - cell "Germany":
+            - strong: Germany
+          - cell "Berlin"
+          - cell "Euro"
+          - cell "German"
+        - row "Ghana Accra Ghanaian Cedi English":
+          - cell:
+            - checkbox
+          - cell "Ghana":
+            - strong: Ghana
+          - cell "Accra"
+          - cell "Ghanaian Cedi"
+          - cell "English"
+        - row "Greece Athens Euro Greek":
+          - cell:
+            - checkbox
+          - cell "Greece":
+            - strong: Greece
+          - cell "Athens"
+          - cell "Euro"
+          - cell "Greek"
+        - row "Grenada St. George’s East Caribbean Dollar English; Patois":
+          - cell:
+            - checkbox
+          - cell "Grenada":
+            - strong: Grenada
+          - cell "St. George’s"
+          - cell "East Caribbean Dollar"
+          - cell "English; Patois"
+        - row "Guatemala Guatemala City Quetzal Spanish":
+          - cell:
+            - checkbox
+          - cell "Guatemala":
+            - strong: Guatemala
+          - cell "Guatemala City"
+          - cell "Quetzal"
+          - cell "Spanish"
+        - row "Guinea Conakry Guinean Franc French":
+          - cell:
+            - checkbox
+          - cell "Guinea":
+            - strong: Guinea
+          - cell "Conakry"
+          - cell "Guinean Franc"
+          - cell "French"
+        - row "Guinea-Bissau Bissau West African CFA Franc Portuguese":
+          - cell:
+            - checkbox
+          - cell "Guinea-Bissau":
+            - strong: Guinea-Bissau
+          - cell "Bissau"
+          - cell "West African CFA Franc"
+          - cell "Portuguese"
+        - row "Guyana Georgetown Guyanese Dollar English":
+          - cell:
+            - checkbox
+          - cell "Guyana":
+            - strong: Guyana
+          - cell "Georgetown"
+          - cell "Guyanese Dollar"
+          - cell "English"
+        - row "Haiti Port-au-Prince Gourde Haitian Creole; French":
+          - cell:
+            - checkbox
+          - cell "Haiti":
+            - strong: Haiti
+          - cell "Port-au-Prince"
+          - cell "Gourde"
+          - cell "Haitian Creole; French"
+        - row "Honduras Tegucigalpa Lempira Spanish":
+          - cell:
+            - checkbox
+          - cell "Honduras":
+            - strong: Honduras
+          - cell "Tegucigalpa"
+          - cell "Lempira"
+          - cell "Spanish"
+        - row "Hungary Budapest Forint Hungarian":
+          - cell:
+            - checkbox
+          - cell "Hungary":
+            - strong: Hungary
+          - cell "Budapest"
+          - cell "Forint"
+          - cell "Hungarian"
+        - row "Iceland Reykjavik Icelandic Krona Icelandic":
+          - cell:
+            - checkbox
+          - cell "Iceland":
+            - strong: Iceland
+          - cell "Reykjavik"
+          - cell "Icelandic Krona"
+          - cell "Icelandic"
+        - row "India New Delhi Indian Rupee Hindi; English":
+          - cell:
+            - checkbox
+          - cell "India":
+            - strong: India
+          - cell "New Delhi"
+          - cell "Indian Rupee"
+          - cell "Hindi; English"
+        - row "Indonesia Jakarta Rupiah Indonesian":
+          - cell:
+            - checkbox
+          - cell "Indonesia":
+            - strong: Indonesia
+          - cell "Jakarta"
+          - cell "Rupiah"
+          - cell "Indonesian"
+        - row "Iran Tehran Rial Persian":
+          - cell:
+            - checkbox
+          - cell "Iran":
+            - strong: Iran
+          - cell "Tehran"
+          - cell "Rial"
+          - cell "Persian"
+        - row "Iraq Baghdad Iraqi Dinar Arabic; Kurdish":
+          - cell:
+            - checkbox
+          - cell "Iraq":
+            - strong: Iraq
+          - cell "Baghdad"
+          - cell "Iraqi Dinar"
+          - cell "Arabic; Kurdish"
+        - row "Republic of Ireland Dublin Euro English; Irish":
+          - cell:
+            - checkbox
+          - cell "Republic of Ireland":
+            - strong: Republic of Ireland
+          - cell "Dublin"
+          - cell "Euro"
+          - cell "English; Irish"
+        - row "Israel Jerusalem Shekel Hebrew; Arabic":
+          - cell:
+            - checkbox
+          - cell "Israel":
+            - strong: Israel
+          - cell "Jerusalem"
+          - cell "Shekel"
+          - cell "Hebrew; Arabic"
+        - row "Italy Rome Euro Italian":
+          - cell:
+            - checkbox
+          - cell "Italy":
+            - strong: Italy
+          - cell "Rome"
+          - cell "Euro"
+          - cell "Italian"
+        - row "Jamaica Kingston Jamaican Dollar English":
+          - cell:
+            - checkbox
+          - cell "Jamaica":
+            - strong: Jamaica
+          - cell "Kingston"
+          - cell "Jamaican Dollar"
+          - cell "English"
+        - row "Japan Tokyo Yen Japanese":
+          - cell:
+            - checkbox
+          - cell "Japan":
+            - strong: Japan
+          - cell "Tokyo"
+          - cell "Yen"
+          - cell "Japanese"
+        - row "Jordan Amman Jordanian Dinar Arabic":
+          - cell:
+            - checkbox
+          - cell "Jordan":
+            - strong: Jordan
+          - cell "Amman"
+          - cell "Jordanian Dinar"
+          - cell "Arabic"
+        - row "Kazakhstan Astana Tenge Kazakh; Russian":
+          - cell:
+            - checkbox
+          - cell "Kazakhstan":
+            - strong: Kazakhstan
+          - cell "Astana"
+          - cell "Tenge"
+          - cell "Kazakh; Russian"
+        - row "Kenya Nairobi Kenyan Shilling Swahili; English":
+          - cell:
+            - checkbox
+          - cell "Kenya":
+            - strong: Kenya
+          - cell "Nairobi"
+          - cell "Kenyan Shilling"
+          - cell "Swahili; English"
+        - row "Kiribati Tarawa Atoll Kiribati Dollar English; Gilbertese":
+          - cell:
+            - checkbox
+          - cell "Kiribati":
+            - strong: Kiribati
+          - cell "Tarawa Atoll"
+          - cell "Kiribati Dollar"
+          - cell "English; Gilbertese"
+        - row "North Korea Pyongyang North Korean Won Korean":
+          - cell:
+            - checkbox
+          - cell "North Korea":
+            - strong: North Korea
+          - cell "Pyongyang"
+          - cell "North Korean Won"
+          - cell "Korean"
+        - row "South Korea Seoul South Korean Won Korean":
+          - cell:
+            - checkbox
+          - cell "South Korea":
+            - strong: South Korea
+          - cell "Seoul"
+          - cell "South Korean Won"
+          - cell "Korean"
+        - row "Kosovo Pristina Euro Albanian; Serbian":
+          - cell:
+            - checkbox
+          - cell "Kosovo":
+            - strong: Kosovo
+          - cell "Pristina"
+          - cell "Euro"
+          - cell "Albanian; Serbian"
+        - row "Kuwait Kuwait City Kuwaiti Dollar Arabic; English":
+          - cell:
+            - checkbox
+          - cell "Kuwait":
+            - strong: Kuwait
+          - cell "Kuwait City"
+          - cell "Kuwaiti Dollar"
+          - cell "Arabic; English"
+        - row "Kyrgyzstan Bishkek Som Kyrgyz; Russian":
+          - cell:
+            - checkbox
+          - cell "Kyrgyzstan":
+            - strong: Kyrgyzstan
+          - cell "Bishkek"
+          - cell "Som"
+          - cell "Kyrgyz; Russian"
+        - row "Laos Vientiane Kip Lao (Laotian)":
+          - cell:
+            - checkbox
+          - cell "Laos":
+            - strong: Laos
+          - cell "Vientiane"
+          - cell "Kip"
+          - cell "Lao (Laotian)"
+        - row "Latvia Riga Lats Latvian":
+          - cell:
+            - checkbox
+          - cell "Latvia":
+            - strong: Latvia
+          - cell "Riga"
+          - cell "Lats"
+          - cell "Latvian"
+        - row "Lebanon Beirut Lebanese Pound Arabic; French":
+          - cell:
+            - checkbox
+          - cell "Lebanon":
+            - strong: Lebanon
+          - cell "Beirut"
+          - cell "Lebanese Pound"
+          - cell "Arabic; French"
+        - row "Lesotho Maseru Loti Sesotho; English":
+          - cell:
+            - checkbox
+          - cell "Lesotho":
+            - strong: Lesotho
+          - cell "Maseru"
+          - cell "Loti"
+          - cell "Sesotho; English"
+        - row "Liberia Monrovia Liberian Dollar English":
+          - cell:
+            - checkbox
+          - cell "Liberia":
+            - strong: Liberia
+          - cell "Monrovia"
+          - cell "Liberian Dollar"
+          - cell "English"
+        - row "Libya Tripoli Libyan Dinar Arabic":
+          - cell:
+            - checkbox
+          - cell "Libya":
+            - strong: Libya
+          - cell "Tripoli"
+          - cell "Libyan Dinar"
+          - cell "Arabic"
+        - row "Liechtenstein Vaduz Swiss Franc German":
+          - cell:
+            - checkbox
+          - cell "Liechtenstein":
+            - strong: Liechtenstein
+          - cell "Vaduz"
+          - cell "Swiss Franc"
+          - cell "German"
+        - row "Lithuania Vilnius Lithuanian Litas Lithuanian":
+          - cell:
+            - checkbox
+          - cell "Lithuania":
+            - strong: Lithuania
+          - cell "Vilnius"
+          - cell "Lithuanian Litas"
+          - cell "Lithuanian"
+        - row "Luxembourg Luxembourg Euro German; French; Luxembourgish":
+          - cell:
+            - checkbox
+          - cell "Luxembourg":
+            - strong: Luxembourg
+          - cell "Luxembourg"
+          - cell "Euro"
+          - cell "German; French; Luxembourgish"
+        - row "Macedonia Skopje Macedonian Denar Macedonian":
+          - cell:
+            - checkbox
+          - cell "Macedonia":
+            - strong: Macedonia
+          - cell "Skopje"
+          - cell "Macedonian Denar"
+          - cell "Macedonian"
+        - row "Madagascar Antananarivo Malagasy Ariary Malagasy; French; English":
+          - cell:
+            - checkbox
+          - cell "Madagascar":
+            - strong: Madagascar
+          - cell "Antananarivo"
+          - cell "Malagasy Ariary"
+          - cell "Malagasy; French; English"
+        - row "Malawi Lilongwe Malawi Kwacha English":
+          - cell:
+            - checkbox
+          - cell "Malawi":
+            - strong: Malawi
+          - cell "Lilongwe"
+          - cell "Malawi Kwacha"
+          - cell "English"
+        - row "Malaysia Kuala Lumpur Ringgit Malay":
+          - cell:
+            - checkbox
+          - cell "Malaysia":
+            - strong: Malaysia
+          - cell "Kuala Lumpur"
+          - cell "Ringgit"
+          - cell "Malay"
+        - row "Maldives Male Maldivian Rufiyaa Dhivehi":
+          - cell:
+            - checkbox
+          - cell "Maldives":
+            - strong: Maldives
+          - cell "Male"
+          - cell "Maldivian Rufiyaa"
+          - cell "Dhivehi"
+        - row "Mali Bamako West African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Mali":
+            - strong: Mali
+          - cell "Bamako"
+          - cell "West African CFA Franc"
+          - cell "French"
+        - row "Malta Valletta Euro Maltese; English":
+          - cell:
+            - checkbox
+          - cell "Malta":
+            - strong: Malta
+          - cell "Valletta"
+          - cell "Euro"
+          - cell "Maltese; English"
+        - row "Marshall Islands Majuro United States Dollar Marshallese; English":
+          - cell:
+            - checkbox
+          - cell "Marshall Islands":
+            - strong: Marshall Islands
+          - cell "Majuro"
+          - cell "United States Dollar"
+          - cell "Marshallese; English"
+        - row "Mauritania Nouakchott Ouguiya Arabic":
+          - cell:
+            - checkbox
+          - cell "Mauritania":
+            - strong: Mauritania
+          - cell "Nouakchott"
+          - cell "Ouguiya"
+          - cell "Arabic"
+        - row "Mauritius Port Louis Mauritian Rupee English":
+          - cell:
+            - checkbox
+          - cell "Mauritius":
+            - strong: Mauritius
+          - cell "Port Louis"
+          - cell "Mauritian Rupee"
+          - cell "English"
+        - row "Mexico Mexico City Mexican Peso Spanish":
+          - cell:
+            - checkbox
+          - cell "Mexico":
+            - strong: Mexico
+          - cell "Mexico City"
+          - cell "Mexican Peso"
+          - cell "Spanish"
+        - row "Federal States of Micronesia Palikir United States Dollar English":
+          - cell:
+            - checkbox
+          - cell "Federal States of Micronesia":
+            - strong: Federal States of Micronesia
+          - cell "Palikir"
+          - cell "United States Dollar"
+          - cell "English"
+        - row "Moldova Chisinau Moldovan Leu Moldovan (Romanian)":
+          - cell:
+            - checkbox
+          - cell "Moldova":
+            - strong: Moldova
+          - cell "Chisinau"
+          - cell "Moldovan Leu"
+          - cell "Moldovan (Romanian)"
+        - row "Monaco Monaco Euro French; Italian; English":
+          - cell:
+            - checkbox
+          - cell "Monaco":
+            - strong: Monaco
+          - cell "Monaco"
+          - cell "Euro"
+          - cell "French; Italian; English"
+        - row "Mongolia Ulaanbaatar Togrog Mongolian":
+          - cell:
+            - checkbox
+          - cell "Mongolia":
+            - strong: Mongolia
+          - cell "Ulaanbaatar"
+          - cell "Togrog"
+          - cell "Mongolian"
+        - row "Montenegro Podgorica Euro Montenegrin":
+          - cell:
+            - checkbox
+          - cell "Montenegro":
+            - strong: Montenegro
+          - cell "Podgorica"
+          - cell "Euro"
+          - cell "Montenegrin"
+        - row "Morocco Rabat Moroccan Dirham Arabic":
+          - cell:
+            - checkbox
+          - cell "Morocco":
+            - strong: Morocco
+          - cell "Rabat"
+          - cell "Moroccan Dirham"
+          - cell "Arabic"
+        - row "Mozambique Maputo Mozambican Metical Portuguese":
+          - cell:
+            - checkbox
+          - cell "Mozambique":
+            - strong: Mozambique
+          - cell "Maputo"
+          - cell "Mozambican Metical"
+          - cell "Portuguese"
+        - row "Myanmar (Burma) Nypyidaw Kyat Burmese":
+          - cell:
+            - checkbox
+          - cell "Myanmar (Burma)":
+            - strong: Myanmar (Burma)
+          - cell "Nypyidaw"
+          - cell "Kyat"
+          - cell "Burmese"
+        - row "Namibia Windhoek Namibian Dollar English; Afrikaans; German":
+          - cell:
+            - checkbox
+          - cell "Namibia":
+            - strong: Namibia
+          - cell "Windhoek"
+          - cell "Namibian Dollar"
+          - cell "English; Afrikaans; German"
+        - row "Nauru Yaren Australian Dollar English; Nauran":
+          - cell:
+            - checkbox
+          - cell "Nauru":
+            - strong: Nauru
+          - cell "Yaren"
+          - cell "Australian Dollar"
+          - cell "English; Nauran"
+        - row "Nepal Kathmandu Nepalese Rupee Nepali":
+          - cell:
+            - checkbox
+          - cell "Nepal":
+            - strong: Nepal
+          - cell "Kathmandu"
+          - cell "Nepalese Rupee"
+          - cell "Nepali"
+        - row "Netherlands Amsterdam; The Hague Euro Dutch":
+          - cell:
+            - checkbox
+          - cell "Netherlands":
+            - strong: Netherlands
+          - cell "Amsterdam; The Hague"
+          - cell "Euro"
+          - cell "Dutch"
+        - row "New Zealand Wellington New Zealand Dollar English":
+          - cell:
+            - checkbox
+          - cell "New Zealand":
+            - strong: New Zealand
+          - cell "Wellington"
+          - cell "New Zealand Dollar"
+          - cell "English"
+        - row "Nicaragua Managua Cordoba Spanish":
+          - cell:
+            - checkbox
+          - cell "Nicaragua":
+            - strong: Nicaragua
+          - cell "Managua"
+          - cell "Cordoba"
+          - cell "Spanish"
+        - row "Niger Niamey West African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Niger":
+            - strong: Niger
+          - cell "Niamey"
+          - cell "West African CFA Franc"
+          - cell "French"
+        - row "Nigeria Abuja Naira English":
+          - cell:
+            - checkbox
+          - cell "Nigeria":
+            - strong: Nigeria
+          - cell "Abuja"
+          - cell "Naira"
+          - cell "English"
+        - row "Norway Oslo Norwegian Krone Norwegian":
+          - cell:
+            - checkbox
+          - cell "Norway":
+            - strong: Norway
+          - cell "Oslo"
+          - cell "Norwegian Krone"
+          - cell "Norwegian"
+        - row "Oman Muscat Omani Rial Arabic":
+          - cell:
+            - checkbox
+          - cell "Oman":
+            - strong: Oman
+          - cell "Muscat"
+          - cell "Omani Rial"
+          - cell "Arabic"
+        - row "Pakistan Islamabad Pakistani Rupee Urdu; English":
+          - cell:
+            - checkbox
+          - cell "Pakistan":
+            - strong: Pakistan
+          - cell "Islamabad"
+          - cell "Pakistani Rupee"
+          - cell "Urdu; English"
+        - row "Palau Melekeok United States Dollar English; Palauan":
+          - cell:
+            - checkbox
+          - cell "Palau":
+            - strong: Palau
+          - cell "Melekeok"
+          - cell "United States Dollar"
+          - cell "English; Palauan"
+        - row "Panama Panama City Balboa Spanish":
+          - cell:
+            - checkbox
+          - cell "Panama":
+            - strong: Panama
+          - cell "Panama City"
+          - cell "Balboa"
+          - cell "Spanish"
+        - row "Papa New Guinea Port Moresby Papa Papa New Guinean Kina English; Tok Pisin; Hiri Motu":
+          - cell:
+            - checkbox
+          - cell "Papa New Guinea":
+            - strong: Papa New Guinea
+          - cell "Port Moresby Papa"
+          - cell "Papa New Guinean Kina"
+          - cell "English; Tok Pisin; Hiri Motu"
+        - row "Paraguay Asuncion Guarani Spanish; Guarani":
+          - cell:
+            - checkbox
+          - cell "Paraguay":
+            - strong: Paraguay
+          - cell "Asuncion"
+          - cell "Guarani"
+          - cell "Spanish; Guarani"
+        - row "Peru Lima Nuevo Sol Spanish":
+          - cell:
+            - checkbox
+          - cell "Peru":
+            - strong: Peru
+          - cell "Lima"
+          - cell "Nuevo Sol"
+          - cell "Spanish"
+        - row "Phillipines Manila Phillipine Peso Filipino; English":
+          - cell:
+            - checkbox
+          - cell "Phillipines"
+          - cell "Manila"
+          - cell "Phillipine Peso"
+          - cell "Filipino; English"
+        - row "Poland Warsaw Zloty Polish":
+          - cell:
+            - checkbox
+          - cell "Poland":
+            - strong: Poland
+          - cell "Warsaw"
+          - cell "Zloty"
+          - cell "Polish"
+        - row "Portugal Lisbon Euro Portuguese":
+          - cell:
+            - checkbox
+          - cell "Portugal":
+            - strong: Portugal
+          - cell "Lisbon"
+          - cell "Euro"
+          - cell "Portuguese"
+        - row "Qatar Doha Qatari Riyal Arabic":
+          - cell:
+            - checkbox
+          - cell "Qatar":
+            - strong: Qatar
+          - cell "Doha"
+          - cell "Qatari Riyal"
+          - cell "Arabic"
+        - row "Romania Bucharest Romanian Rupee Romanian":
+          - cell:
+            - checkbox
+          - cell "Romania":
+            - strong: Romania
+          - cell "Bucharest"
+          - cell "Romanian Rupee"
+          - cell "Romanian"
+        - row "Romania Bucharest Romanian Rupee Romanian":
+          - cell:
+            - checkbox
+          - cell "Romania":
+            - strong: Romania
+          - cell "Bucharest"
+          - cell "Romanian Rupee"
+          - cell "Romanian"
+        - row "Russia Moscow Ruble Russian":
+          - cell:
+            - checkbox
+          - cell "Russia":
+            - strong: Russia
+          - cell "Moscow"
+          - cell "Ruble"
+          - cell "Russian"
+        - row "Rwanda Kigali Rwandan Franc Kinyarwanda; French; English":
+          - cell:
+            - checkbox
+          - cell "Rwanda":
+            - strong: Rwanda
+          - cell "Kigali"
+          - cell "Rwandan Franc"
+          - cell "Kinyarwanda; French; English"
+        - row "Saint Kitts and Nevis Basseterre East Caribbean Dollar English":
+          - cell:
+            - checkbox
+          - cell "Saint Kitts and Nevis":
+            - strong: Saint Kitts and Nevis
+          - cell "Basseterre"
+          - cell "East Caribbean Dollar"
+          - cell "English"
+        - row "Saint Lucia Castries East Caribbean Dollar English; French":
+          - cell:
+            - checkbox
+          - cell "Saint Lucia":
+            - strong: Saint Lucia
+          - cell "Castries"
+          - cell "East Caribbean Dollar"
+          - cell "English; French"
+        - row "Saint Vincent and The Grenadines Kingstown East Caribbean Dollar English":
+          - cell:
+            - checkbox
+          - cell "Saint Vincent and The Grenadines":
+            - strong: Saint Vincent and
+            - strong: The Grenadines
+          - cell "Kingstown East"
+          - cell "Caribbean Dollar"
+          - cell "English"
+        - row "Samoa Apia Tala Samoan; English":
+          - cell:
+            - checkbox
+          - cell "Samoa":
+            - strong: Samoa
+          - cell "Apia"
+          - cell "Tala"
+          - cell "Samoan; English"
+        - row "San Marino San Marino Euro Italian":
+          - cell:
+            - checkbox
+          - cell "San Marino":
+            - strong: San Marino
+          - cell "San Marino"
+          - cell "Euro"
+          - cell "Italian"
+        - row "Sao Tome and Principe Sao Tome Dobra Portuguese":
+          - cell:
+            - checkbox
+          - cell "Sao Tome and Principe":
+            - strong: Sao Tome and Principe
+          - cell "Sao Tome"
+          - cell "Dobra"
+          - cell "Portuguese"
+        - row "Saudi Arabia Riyadh Saudi Riyal Arabic":
+          - cell:
+            - checkbox
+          - cell "Saudi Arabia":
+            - strong: Saudi Arabia
+          - cell "Riyadh"
+          - cell "Saudi Riyal"
+          - cell "Arabic"
+        - row "Senegal Dakar West African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Senegal":
+            - strong: Senegal
+          - cell "Dakar"
+          - cell "West African CFA Franc"
+          - cell "French"
+        - row "Serbia Belgrade Serbian Dinar Serbian":
+          - cell:
+            - checkbox
+          - cell "Serbia":
+            - strong: Serbia
+          - cell "Belgrade"
+          - cell "Serbian Dinar"
+          - cell "Serbian"
+        - row "Seychelles Victoria Seychoellois Rupee Seychellois Creole; French; English":
+          - cell:
+            - checkbox
+          - cell "Seychelles":
+            - strong: Seychelles
+          - cell "Victoria"
+          - cell "Seychoellois Rupee"
+          - cell "Seychellois Creole; French; English"
+        - row "Sierra Leone Freetown Leone Krio; English":
+          - cell:
+            - checkbox
+          - cell "Sierra Leone":
+            - strong: Sierra Leone
+          - cell "Freetown"
+          - cell "Leone"
+          - cell "Krio; English"
+        - row "Singapore Singapore Singapore Dollar English; Malay; Mandarin Chinese":
+          - cell:
+            - checkbox
+          - cell "Singapore":
+            - strong: Singapore
+          - cell "Singapore"
+          - cell "Singapore Dollar"
+          - cell "English; Malay; Mandarin Chinese"
+        - row "Slovakia Bratislava Euro Slovak":
+          - cell:
+            - checkbox
+          - cell "Slovakia":
+            - strong: Slovakia
+          - cell "Bratislava"
+          - cell "Euro"
+          - cell "Slovak"
+        - row "Slovenia Ljubljana Euro Slovene":
+          - cell:
+            - checkbox
+          - cell "Slovenia":
+            - strong: Slovenia
+          - cell "Ljubljana"
+          - cell "Euro"
+          - cell "Slovene"
+        - row "Solomon Islands Honiara Solomon Islands Dollar Solomons Pijin":
+          - cell:
+            - checkbox
+          - cell "Solomon Islands":
+            - strong: Solomon Islands
+          - cell "Honiara"
+          - cell "Solomon Islands Dollar"
+          - cell "Solomons Pijin"
+        - row "Somalia Mogadishu Somali Shilling Somali; Arabic":
+          - cell:
+            - checkbox
+          - cell "Somalia":
+            - strong: Somalia
+          - cell "Mogadishu"
+          - cell "Somali Shilling"
+          - cell "Somali; Arabic"
+        - row "South Africa Pretoria; Cape Town; Bloemfontein Rand Zulu; Xhosa; Afrikaans":
+          - cell:
+            - checkbox
+          - cell "South Africa":
+            - strong: South Africa
+          - cell "Pretoria; Cape Town; Bloemfontein"
+          - cell "Rand"
+          - cell "Zulu; Xhosa; Afrikaans"
+        - row "Spain Madrid Euro Spanish":
+          - cell:
+            - checkbox
+          - cell "Spain":
+            - strong: Spain
+          - cell "Madrid"
+          - cell "Euro"
+          - cell "Spanish"
+        - row "Sri Lanka Colombo Sri Lankan Rupee Sinhala; Tamil":
+          - cell:
+            - checkbox
+          - cell "Sri Lanka":
+            - strong: Sri Lanka
+          - cell "Colombo"
+          - cell "Sri Lankan Rupee"
+          - cell "Sinhala; Tamil"
+        - row "Sudan Khartoum Sudanese Pound Arabic; English":
+          - cell:
+            - checkbox
+          - cell "Sudan":
+            - strong: Sudan
+          - cell "Khartoum"
+          - cell "Sudanese Pound"
+          - cell "Arabic; English"
+        - row "Suriname Paramaribo Surinamese Dollar Dutch":
+          - cell:
+            - checkbox
+          - cell "Suriname":
+            - strong: Suriname
+          - cell "Paramaribo"
+          - cell "Surinamese Dollar"
+          - cell "Dutch"
+        - row "Swaziland Mbabane Lilangeni English; SiSwati":
+          - cell:
+            - checkbox
+          - cell "Swaziland":
+            - strong: Swaziland
+          - cell "Mbabane"
+          - cell "Lilangeni"
+          - cell "English; SiSwati"
+        - row "Sweden Stockholm Swedish Krona Swedish":
+          - cell:
+            - checkbox
+          - cell "Sweden":
+            - strong: Sweden
+          - cell "Stockholm"
+          - cell "Swedish Krona"
+          - cell "Swedish"
+        - row "Switzerland Berne Swiss Franc German; French; Italian":
+          - cell:
+            - checkbox
+          - cell "Switzerland":
+            - strong: Switzerland
+          - cell "Berne"
+          - cell "Swiss Franc"
+          - cell "German; French; Italian"
+        - row "Syria Damascus Syrian Pound Arabic":
+          - cell:
+            - checkbox
+          - cell "Syria":
+            - strong: Syria
+          - cell "Damascus"
+          - cell "Syrian Pound"
+          - cell "Arabic"
+        - row "Taiwan Taipei New Taiwan Dollar Mandarin":
+          - cell:
+            - checkbox
+          - cell "Taiwan":
+            - strong: Taiwan
+          - cell "Taipei"
+          - cell "New Taiwan Dollar"
+          - cell "Mandarin"
+        - row "Tajikistan Dushanbe Somoni Tajik; Russian":
+          - cell:
+            - checkbox
+          - cell "Tajikistan":
+            - strong: Tajikistan
+          - cell "Dushanbe"
+          - cell "Somoni"
+          - cell "Tajik; Russian"
+        - row "Tanzania Dar es Salaam; Dodoma Tanzanian Schilling Swahili":
+          - cell:
+            - checkbox
+          - cell "Tanzania":
+            - strong: Tanzania
+          - cell "Dar es Salaam; Dodoma"
+          - cell "Tanzanian Schilling"
+          - cell "Swahili"
+        - row "Thailand Bangkok Thai Baht Thai":
+          - cell:
+            - checkbox
+          - cell "Thailand":
+            - strong: Thailand
+          - cell "Bangkok"
+          - cell "Thai Baht"
+          - cell "Thai"
+        - row "Togo Lome West African CFA Franc French":
+          - cell:
+            - checkbox
+          - cell "Togo":
+            - strong: Togo
+          - cell "Lome"
+          - cell "West African CFA Franc"
+          - cell "French"
+        - row "Tonga Nuku’alofa Pa’anga Tongan; English":
+          - cell:
+            - checkbox
+          - cell "Tonga":
+            - strong: Tonga
+          - cell "Nuku’alofa"
+          - cell "Pa’anga"
+          - cell "Tongan; English"
+        - row "Trinidad and Tobago Port-of-Spain Trinidad and Tobago Dollar English":
+          - cell:
+            - checkbox
+          - cell "Trinidad and Tobago":
+            - strong: Trinidad and Tobago
+          - cell "Port-of-Spain"
+          - cell "Trinidad and Tobago Dollar"
+          - cell "English"
+        - row "Tunisia Tunis Tunisian Dinar Tunisian; French":
+          - cell:
+            - checkbox
+          - cell "Tunisia":
+            - strong: Tunisia
+          - cell "Tunis"
+          - cell "Tunisian Dinar"
+          - cell "Tunisian; French"
+        - row "Turkey Ankara Turkish Lira Turkish":
+          - cell:
+            - checkbox
+          - cell "Turkey":
+            - strong: Turkey
+          - cell "Ankara"
+          - cell "Turkish Lira"
+          - cell "Turkish"
+        - row "Turkmenistan Ashgabat Turkmen New Manat Turkmen; Russian":
+          - cell:
+            - checkbox
+          - cell "Turkmenistan":
+            - strong: Turkmenistan
+          - cell "Ashgabat"
+          - cell "Turkmen New Manat"
+          - cell "Turkmen; Russian"
+        - row "Tuvalu Vaiaku Tuvaluan Dollar Tuvaluan; English":
+          - cell:
+            - checkbox
+          - cell "Tuvalu":
+            - strong: Tuvalu
+          - cell "Vaiaku"
+          - cell "Tuvaluan Dollar"
+          - cell "Tuvaluan; English"
+        - row "Uganda Kampala Ugandan Shilling Swahili; English":
+          - cell:
+            - checkbox
+          - cell "Uganda":
+            - strong: Uganda
+          - cell "Kampala"
+          - cell "Ugandan Shilling"
+          - cell "Swahili; English"
+        - row "Ukraine Kiev Hryvnia Ukranian; Russian":
+          - cell:
+            - checkbox
+          - cell "Ukraine":
+            - strong: Ukraine
+          - cell "Kiev"
+          - cell "Hryvnia"
+          - cell "Ukranian; Russian"
+        - row "United Arab Emirates Abu Dhabi Dirham Arabic":
+          - cell:
+            - checkbox
+          - cell "United Arab Emirates":
+            - strong: United Arab Emirates
+          - cell "Abu Dhabi"
+          - cell "Dirham"
+          - cell "Arabic"
+        - row "United Kingdom London Pound Sterling English":
+          - cell:
+            - checkbox
+          - cell "United Kingdom":
+            - strong: United Kingdom
+          - cell "London"
+          - cell "Pound Sterling"
+          - cell "English"
+        - row "United States of America Washington D.C. United States Dollar English; Spanish":
+          - cell:
+            - checkbox
+          - cell "United States of America":
+            - strong: United States of America
+          - cell "Washington D.C."
+          - cell "United States Dollar"
+          - cell "English; Spanish"
+        - row "Uruguay Montevideo Uruguayan Peso Spanish":
+          - cell:
+            - checkbox
+          - cell "Uruguay":
+            - strong: Uruguay
+          - cell "Montevideo"
+          - cell "Uruguayan Peso"
+          - cell "Spanish"
+        - row "Uzbekistan Tashkent Uzbekistan Som Uzbek; Russian":
+          - cell:
+            - checkbox
+          - cell "Uzbekistan":
+            - strong: Uzbekistan
+          - cell "Tashkent"
+          - cell "Uzbekistan Som"
+          - cell "Uzbek; Russian"
+        - row "Vanuatu Port-Vila Vanuatu Vatu Bislama; English; French":
+          - cell:
+            - checkbox
+          - cell "Vanuatu":
+            - strong: Vanuatu
+          - cell "Port-Vila"
+          - cell "Vanuatu Vatu"
+          - cell "Bislama; English; French"
+        - row "Vatican City Vatican City Euro Latin; Italian":
+          - cell:
+            - checkbox
+          - cell "Vatican City":
+            - strong: Vatican City
+          - cell "Vatican City"
+          - cell "Euro"
+          - cell "Latin; Italian"
+        - row "Venezuela Caracas Bolivar Fuerte Spanish":
+          - cell:
+            - checkbox
+          - cell "Venezuela":
+            - strong: Venezuela
+          - cell "Caracas"
+          - cell "Bolivar Fuerte"
+          - cell "Spanish"
+        - row "Vietnam Hanoi Dong Vietnamese":
+          - cell:
+            - checkbox
+          - cell "Vietnam":
+            - strong: Vietnam
+          - cell "Hanoi"
+          - cell "Dong"
+          - cell "Vietnamese"
+        - row "Yemen Sanaa Yemeni Rial Arabic":
+          - cell:
+            - checkbox
+          - cell "Yemen":
+            - strong: Yemen
+          - cell "Sanaa"
+          - cell "Yemeni Rial"
+          - cell "Arabic"
+        - row "Zambia Lusaka Zambian Kwacha English":
+          - cell:
+            - checkbox
+          - cell "Zambia":
+            - strong: Zambia
+          - cell "Lusaka"
+          - cell "Zambian Kwacha"
+          - cell "English"
+        - row "Zimbabwe Harare United States Dollar English":
+          - cell:
+            - checkbox
+          - cell "Zimbabwe":
+            - strong: Zimbabwe
+          - cell "Harare"
+          - cell "United States Dollar"
+          - cell "English"
+- insertion
+- contentinfo "Site":
+  - insertion
+  - text: © 2023 CosmoCode (Formerly TeachMeSelenium) • Built with
+  - link "GeneratePress":
+    - /url: https://generatepress.com
+- navigation:
+  - list:
+    - listitem:
+      - link "Home":
+        - /url: https://cosmocode.io
+    - listitem:
+      - link "Selenium Tutorials":
+        - /url: https://cosmocode.io/category/selenium/
+    - listitem:
+      - link "JavaScript Tutorials":
+        - /url: https://cosmocode.io/category/javascript/
+    - listitem:
+      - link "More":
+        - /url: https://cosmocode.io
+    - listitem:
+      - link "About Us":
+        - /url: https://cosmocode.io/about-us/
+```

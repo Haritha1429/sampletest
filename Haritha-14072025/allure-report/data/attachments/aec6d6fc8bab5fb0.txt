@@ -1,0 +1,5 @@
+[
+  '//ul[@id="menu-items"]//li[text()="Fried Chicken"]',
+  '//ul[@id="menu-items"]//li[text()="Hamburger"]',
+  '//ul[@id="menu-items"]//li[text()="Ice Cream"]'
+]

@@ -1,0 +1,45 @@
+Afghanistan
+Afghanistan|Kabul
+Afghanistan|Kabul|Afghani
+Afghanistan|Kabul|Afghani|Dari Persian; Pashto
+Afghanistan|Kabul|Afghani|Dari Persian; Pashto
+Albania
+Albania|Tirane
+Albania|Tirane|Lek
+Albania|Tirane|Lek|Albanian
+Albania|Tirane|Lek|Albanian
+Algeria
+Algeria|Algiers
+Algeria|Algiers|Algerian Dinar
+Algeria|Algiers|Algerian Dinar|Arabic; Tamazight; French
+Algeria|Algiers|Algerian Dinar|Arabic; Tamazight; French
+Andorra
+Andorra|Andorra la Vella
+Andorra|Andorra la Vella|Euro
+Andorra|Andorra la Vella|Euro|Catalan
+Andorra|Andorra la Vella|Euro|Catalan
+Angola
+Angola|Luanda
+Angola|Luanda|Kwanza
+Angola|Luanda|Kwanza|Portuguese
+Angola|Luanda|Kwanza|Portuguese
+Antigua & Barbuda
+Antigua & Barbuda|Saint John’s
+Antigua & Barbuda|Saint John’s|East Caribbean Dollar
+Antigua & Barbuda|Saint John’s|East Caribbean Dollar|English
+Antigua & Barbuda|Saint John’s|East Caribbean Dollar|English
+Argentina
+Argentina|Buenos Aires
+Argentina|Buenos Aires|Argentine Peso
+Argentina|Buenos Aires|Argentine Peso|Spanish
+Argentina|Buenos Aires|Argentine Peso|Spanish
+Armenia
+Armenia|Yerevan
+Armenia|Yerevan|Dram
+Armenia|Yerevan|Dram|Armenian
+Armenia|Yerevan|Dram|Armenian
+Australia
+Australia|Canberra
+Australia|Canberra|Australian Dollar
+Australia|Canberra|Australian Dollar|English
+Australia|Canberra|Australian Dollar|English
