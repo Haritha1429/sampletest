@@ -1,0 +1,495 @@
+# Page snapshot
+
+```yaml
+- navigation
+- list:
+  - listitem: DF, QA
+- text: /
+- menu:
+  - list:
+    - listitem: 
+- img "Logo"
+- list:
+  - listitem:
+    - link "Planning ":
+      - /url: javascript:void(0);
+  - listitem:
+    - link "Materials ":
+      - /url: javascript:void(0);
+  - listitem:
+    - link "Heavy MX ":
+      - /url: javascript:void(0);
+  - listitem:
+    - link "Reports ":
+      - /url: javascript:void(0);
+  - listitem:
+    - link "Admin ":
+      - /url: javascript:void(0);
+  - listitem:
+    - link "System Admin ":
+      - /url: javascript:void(0);
+- text: Select Bill of Work 
+- list:
+  - listitem:
+    - link "":
+      - /url: javascript:location.reload();
+  - listitem:
+    - link "":
+      - /url: javascript:showLegend();
+  - listitem:
+    - link "":
+      - /url: javascript:SaveEdit.handleLaborLink('startStopLaborLink');
+  - listitem:  (0)
+- paragraph: QA
+- text: " Search Criteria Station:"
+- combobox:
+  - option "--Select Station--"
+  - option "CTO" [selected]
+  - option "DWH"
+  - option "MIA"
+  - option "PTO"
+  - option "SINGAPORE"
+  - option "TLE"
+- text: "Bay:"
+- listbox:
+  - option "BAY2 - CTO"
+  - option "BAY3 - CTO"
+  - option "BAY1 - CTO"
+  - option "PreDock - CTO"
+  - option "BAY4 - CTO"
+  - option "BAY5 - CTO"
+  - option "WASHRACK - CTO"
+  - option "Dashboard-Check - CTO"
+- button "None selected"
+- text: "View:"
+- radio "List"
+- text: List
+- radio "Tile" [checked]
+- text: "Tile Sort By:"
+- combobox:
+  - option "Bay"
+  - option "Delivery Date" [selected]
+- text: "BOW Status:"
+- combobox:
+  - option "Both"
+  - option "Open"
+  - option "Predock" [selected]
+- checkbox " Exclude Storage"
+- text:  Exclude Storage
+- checkbox " Display KPI Graphics"
+- text:  Display KPI Graphics
+- checkbox " Display Only BOW with Task Cards Assigned to Me"
+- text:  Display Only BOW with Task Cards Assigned to Me
+- button "Set Default"
+- button "Load Default"
+- button "Search"
+- text: " Search Results - Station: CTO (52)"
+- button ""
+- button ""
+- text: " Predock: CTO (51)"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "465 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a818aab88f0d51401896f47ed3e3325
+- text: "321-200 Ramp: PreDock Special Visit 5227536"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "189 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a818adb88f0d12f0189d580767a4409
+- text: "321-200 Ramp: BAY5 Special Visit 8484518"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "004 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8bd437a8018c19fb4df21d0e
+- text: "319-100 Ramp: BAY1 777LG WP Check 2988"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "026 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8cecb22a018cee68f04c030b
+- text: "319-100 Ramp: BAY1 B CHECK QA- jitendra"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "006 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8dd45bc9018dd5fb2da027e2
+- text: "319-100 Ramp: BAY1 AC CHECK-LITEFLOW"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "003 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8dc4e1d9018dc511e2010952
+- text: "319-100 Ramp: BAY1 777LG 10620-import"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "001 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8deac144018deaed873d0b96
+- text: "319-100 Ramp: BAY1 777LG 10105_LABOR PLAN"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "394 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8df68e86018e0de5616534fd
+- text: "767-34 Ramp: BAY1 B CHECK WF15+394-01"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "3BP - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8df68e86018e0d65963b3159
+- text: "B737-NG-51 Ramp: BAY1 B CHECK WF15-3BP-01"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "284 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8e5b271c018e5b4923ff2c07
+- text: "A330-200 Ramp: BAY1 AA Smoke Test Demo-Temp"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "005 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8e83b22e018e846e03881887
+- text: "319-100 Ramp: BAY1 777LG BOW AA 280"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "013 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8e97fc3b018e9ea4b3ed2f8b
+- text: "319-100 Ramp: BAY2 777LG Green"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "013 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd8fc94852018fce006f6c5edd
+- text: "319-100 Ramp: BAY1 AC 10105A2"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "006 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd902b1eb30190352931114f7e
+- text: "319-100 Ramp: BAY3 B CHECK QA-JITENDRA MD-78856"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "006 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd902b1eb301903529547d4fab
+- text: "319-100 Ramp: BAY3 B CHECK QA-JITENDRA MD-78856 1"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "344 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd902b1d9101905a7b6a104f7c
+- text: "767-34 Ramp: BAY1 ACC 270624-01"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "3AK - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd90743f4d019096f0c5223607
+- text: "B737-NG-51 Ramp: BAY1 AA Smoke Test 0907-3AK"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "010 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd90743f4d0190a01d5eeb396e
+- text: "319-100 Ramp: BAY1 777LG demoBOW"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "001 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd90743f4d0190c0b0e4b758ad
+- text: "319-100 Ramp: BAY1 WOType001 Lorem ipsum dolor sit amet, consectetuer adipiscinLorem ipsum dolor sit amet, consectetuer adipiscin"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "001 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd90743f4d0190c0b1199758d8
+- text: "319-100 Ramp: BAY1 WOType001 Lorem ipsum dolor sit amet, consectetuer adipiscinLorem ipsum dolor sit amet, consectetuer adipiscinLorem ipsum dolor sit amet, consectetuer adipiscin"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "290 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd91389dd4019146d6644f44d2
+- text: "A330-200 Ramp: BAY1 B CHECK HF17-XML-01"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "3AK - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd91e63e8d0191fb503fed3448
+- text: "B737-NG-51 Ramp: BAY1 B CHECK WO-ETCSP6-2"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "005 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd924721f501926b1323050685
+- text: "319-100 Ramp: BAY1 777LG WO081020242"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "005 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd92b8c6d40192b9146cf20896
+- text: "319-100 Ramp: BAY3 B CHECK 10592-MD-83805 SOAP-004"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "005 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd92bcce250192bdf6b0ff076f
+- text: "319-100 Ramp: BAY3 B CHECK 10592-MD-83545-02"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "3GG - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd956b741a01956bd10fa53f76
+- text: "B737-NG-51 Ramp: BAY1 ACC MY-86552"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "290 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd929eef680192b32d9a092c37
+- text: "A330-200 Ramp: BAY1 B CHECK 22102024-02"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "290 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd929eef680192b3bd9cfe2e18
+- text: "A330-200 Ramp: BAY1 B CHECK BOWIMA"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "290 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd929eef680192b3adb79c293f
+- text: "A330-200 Ramp: BAY1 B CHECK ImageCheck"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "290 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd929eef680192b385624445c0
+- text: "A330-200 Ramp: BAY1 B CHECK CheckRoutine"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "290 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd929eef680192b3b4d04c2bc0
+- text: "A330-200 Ramp: BAY1 B CHECK CheckImage"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "290 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd92b8c6d40192b95c5b5a109f
+- text: "A330-200 Ramp: BAY1 B CHECK ImagePNG"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "002 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd936713c6019367ab1c6726bc
+- text: "319-100 Ramp: BAY1 B CHECK QA-10144-IMPORT-CU1"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "006 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd931f02c101931f857c8835bb
+- text: "319-100 Ramp: BAY3 B CHECK QA-JIT-SOAP-MD-83805-001"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "006 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd94b0d6c10194b0d9314701a5
+- text: "319-100 Ramp: BAY3 B CHECK QA-JIT-SOAP sp6 cu6 01"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "006 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd932470c40193247e222c02fe
+- text: "319-100 Ramp: BAY3 B CHECK QA-JIT-SOAP-MD-80902-001"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "196 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd93055dd501930629590e063b
+- text: "321-200 Ramp: BAY2 B CHECK QA-JIT INIT BOW"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "002 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd937701ab0193773fa4b9512c
+- text: "319-100 Ramp: BAY1 B CHECK SOAP262024"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "150 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd93df24c30193e3d019715699
+- text: "321-200 Ramp: BAY1 B CHECK But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I wil"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "002 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd93df24c30193e3a4ab075190
+- text: "319-100 Ramp: BAY1 AA Smoke Test A wonderful serenity has taken possession of my entire s"
+- link "Task Card Assignments":
+  - /url: "#"
+- text:  IMAGE NOT AVAILABLE
+- separator
+- link "4XC - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd94729b68019472bfae191199
+- text: "80-22 Ramp: BAY1 AA Smoke Test BOW001TEMP"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "802 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd94a7e8e10194a942a9e23416
+- text: "319-100 Ramp: BAY1 B772 TESTBOW"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "002 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd94fac5750194fb013ff60f61
+- text: "319-100 Ramp: BAY1 AC QA122025"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "006 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd94b758170194b7efc44624c9
+- text: "319-100 Ramp: BAY3 B CHECK QA-JIT 001"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "006 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd94b758170194b7f0e0312577
+- text: "319-100 Ramp: BAY3 B CHECK QA-JIT 001"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "443 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd96442c87019657685c7c7864
+- text: "321-200 Ramp: PreDock Special Visit 9979915"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "442 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd96442c87019657457d2d60c7
+- text: "321-200 Ramp: PreDock Special Visit 0036568"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "005 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd966b031c01966be16d9a1575
+- text: "319-100 Ramp: BAY2 AA Smoke Test Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular."
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "8AC - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd92bcce250192d1c4eb247964
+- text: "787-78 Ramp: BAY1 B CHECK ImportETC"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "8AC - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd92bcce250192d19b36403e3d
+- text: "787-78 Ramp: BAY1 B CHECK IMPORTCHECK"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "8AC - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd94735a1d0194738a9efb3c0e
+- text: "787-78 Ramp: BAY1 B CHECK Specific01  Storage: Predock CTO (1)"
+- link "Task Card Assignments":
+  - /url: "#"
+- text: 
+- img
+- separator
+- link "003 - PdC":
+  - /url: /emx/billOfWork/initializePredockCheckList.do?service_lookup=setBOWidInSession&/selectBOW/billOfWork/@billOfWorkId=8a8193cd9347e3b501934952d85d18b7
+- text: "319-100 Ramp: BAY1 JQA STORAGE WO-STORAGE Copyright © 2025. EmpowerMX. All rights reserved. | About | Help  "
+```

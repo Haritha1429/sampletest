@@ -1,0 +1,11 @@
+Countries | Capitals| Currencies | Languages
+||Afghanistan|Kabul|Afghani|Dari Persian; Pashto
+||Albania|Tirane|Lek|Albanian
+||Algeria|Algiers|Algerian Dinar|Arabic; Tamazight; French
+||Andorra|Andorra la Vella|Euro|Catalan
+||Angola|Luanda|Kwanza|Portuguese
+||Antigua & Barbuda|Saint John’s|East Caribbean Dollar|English
+||Argentina|Buenos Aires|Argentine Peso|Spanish
+||Armenia|Yerevan|Dram|Armenian
+||Australia|Canberra|Australian Dollar|English
+||Austria|Vienna|Euro|German

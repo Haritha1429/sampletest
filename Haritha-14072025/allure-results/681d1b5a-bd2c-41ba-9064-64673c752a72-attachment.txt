@@ -1,0 +1,36 @@
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)
+Country
+Country|Capital(s)
+Country|Capital(s)|Currency
+Country|Capital(s)|Currency|Primary Language(s)

@@ -1,0 +1,15 @@
+{
+  "name": "haritha-14072025",
+  "version": "1.0.0",
+  "main": "Hello.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.15",
+    "allure-playwright": "^3.3.3"
+  }
+}

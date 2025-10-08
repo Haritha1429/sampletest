@@ -1,0 +1,17 @@
+const {expect} = require('@playwright/test')
+
+exports.Cartpage = class Cartpage{
+    constructor(page)
+    {
+
+    this.page = page
+
+    this.womenmenu = page.locator('//a[@href="http://www.automationpractice.pl/index.php?id_category=3&controller=category"]')
+    
+    }
+
+    async selectwomen()
+    {
+        await this.womenmenu.click()
+    }
+}

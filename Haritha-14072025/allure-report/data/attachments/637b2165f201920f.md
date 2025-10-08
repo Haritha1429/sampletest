@@ -1,0 +1,122 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link:
+    - /url: http://www.automationpractice.pl/
+  - navigation:
+    - link "Haritha Sunke":
+      - /url: http://www.automationpractice.pl/index.php?controller=my-account
+    - link "Sign out":
+      - /url: http://www.automationpractice.pl/index.php?mylogout=
+    - link "Contact us":
+      - /url: http://www.automationpractice.pl/index.php?controller=contact
+    - text: " Call us now:"
+    - strong: 0123-456-789
+  - link "My Shop":
+    - /url: http://www.automationpractice.pl/
+    - img "My Shop"
+  - textbox "Search"
+  - button ""
+  - link " Cart (empty) ":
+    - /url: http://www.automationpractice.pl/index.php?controller=order
+  - list:
+    - listitem:
+      - link "Women":
+        - /url: http://www.automationpractice.pl/index.php?id_category=3&controller=category
+    - listitem:
+      - link "Dresses":
+        - /url: http://www.automationpractice.pl/index.php?id_category=8&controller=category
+    - listitem:
+      - link "T-shirts":
+        - /url: http://www.automationpractice.pl/index.php?id_category=5&controller=category
+    - listitem:
+      - link "Blog":
+        - /url: http://www.prestashop.com/blog/
+- link ".  .":
+  - /url: http://www.automationpractice.pl/
+- text: "> My account"
+- heading "My account" [level=1]
+- paragraph: Welcome to your account. Here you can manage all of your personal information and orders.
+- list:
+  - listitem:
+    - link " Add my first address":
+      - /url: http://www.automationpractice.pl/index.php?controller=address
+  - listitem:
+    - link " Order history and details":
+      - /url: http://www.automationpractice.pl/index.php?controller=history
+  - listitem:
+    - link " My credit slips":
+      - /url: http://www.automationpractice.pl/index.php?controller=order-slip
+  - listitem:
+    - link " My addresses":
+      - /url: http://www.automationpractice.pl/index.php?controller=addresses
+  - listitem:
+    - link " My personal information":
+      - /url: http://www.automationpractice.pl/index.php?controller=identity
+- list:
+  - listitem:
+    - link " Home":
+      - /url: http://www.automationpractice.pl/
+- contentinfo:
+  - heading "Newsletter" [level=4]
+  - textbox: Enter your e-mail
+  - button ""
+  - list:
+    - listitem:
+      - link "":
+        - /url: http://www.facebook.com/prestashop
+    - listitem:
+      - link "":
+        - /url: http://www.twitter.com/prestashop
+    - listitem:
+      - link "":
+        - /url: http://www.prestashop.com/blog/en/feed/
+  - heading "Follow us" [level=4]
+  - heading "Categories" [level=4]
+  - list:
+    - listitem:
+      - link "Women":
+        - /url: http://www.automationpractice.pl/index.php?id_category=3&controller=category
+  - heading "Information" [level=4]
+  - list:
+    - listitem:
+      - link "Our stores":
+        - /url: http://www.automationpractice.pl/index.php?controller=stores
+    - listitem:
+      - link "Terms and conditions of use":
+        - /url: http://www.automationpractice.pl/index.php?id_cms=3&controller=cms
+    - listitem:
+      - link "About us":
+        - /url: http://www.automationpractice.pl/index.php?id_cms=4&controller=cms
+  - text: © 2014
+  - link "Ecommerce software by PrestaShop™":
+    - /url: http://www.prestashop.com
+  - heading "My account" [level=4]:
+    - link "My account":
+      - /url: http://www.automationpractice.pl/index.php?controller=my-account
+  - list:
+    - listitem:
+      - link "My orders":
+        - /url: http://www.automationpractice.pl/index.php?controller=history
+    - listitem:
+      - link "My credit slips":
+        - /url: http://www.automationpractice.pl/index.php?controller=order-slip
+    - listitem:
+      - link "My addresses":
+        - /url: http://www.automationpractice.pl/index.php?controller=addresses
+    - listitem:
+      - link "My personal info":
+        - /url: http://www.automationpractice.pl/index.php?controller=identity
+    - listitem:
+      - link "Sign out":
+        - /url: http://www.automationpractice.pl/index.php?mylogout
+  - heading "Store Information" [level=4]
+  - list:
+    - listitem:  My Company, 42 avenue des Champs Elysées 75000 Paris France
+    - listitem: " Call us now: 0123-456-789"
+    - listitem:
+      - text: " Email:"
+      - link "sales@yourcompany.com":
+        - /url: mailto:%73%61%6c%65%73@%79%6f%75%72%63%6f%6d%70%61%6e%79.%63%6f%6d
+```
